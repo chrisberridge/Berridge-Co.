@@ -1,0 +1,50 @@
+{
+  "name": "cb_site_barebones",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "decompress": "^4.0.0",
+    "each-async": "^1.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "0.0.8",
+    "gulp-ignore": "^2.0.2",
+    "gulp-uncss": "^1.0.6",
+    "inherits": "^2.0.3",
+    "lodash._isnative": "^2.4.1",
+    "lodash._objecttypes": "^2.4.1",
+    "lodash._setbinddata": "^2.4.1",
+    "lodash._shimkeys": "^2.4.1",
+    "lodash.isobject": "^3.0.2",
+    "lru-cache": "^4.0.2",
+    "request": "^2.80.0",
+    "sigmund": "^1.0.1",
+    "through2": "^2.0.3",
+    "uuid": "^3.0.1"
+  },
+  "dependencies": {
+    "decompress": "^4.0.0",
+    "each-async": "^1.1.1",
+    "gulp": "^3.9.1",
+    "gulp-ignore": "^2.0.2",
+    "inherits": "^2.0.3",
+    "lodash._isnative": "^2.4.1",
+    "lodash._objecttypes": "^2.4.1",
+    "lodash._setbinddata": "^2.4.1",
+    "lodash._shimkeys": "^2.4.1",
+    "lodash.isobject": "^3.0.2",
+    "lodash.noop": "^3.0.1",
+    "lru-cache": "^4.0.2",
+    "sigmund": "^1.0.1",
+    "through2": "^2.0.3",
+    "uuid": "^3.0.1"
+  },
+  "description": ""
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1149px" viewBox="0 0 1440 1149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="1197"></rect>
+    </defs>
+    <g id="Ideas-08---approved" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Template---Home-Copy-2" transform="translate(0.000000, -22.000000)">
+            <g id="Group">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle-4"></g>
+                <path d="M-21,20.22 C-21,20.22 347.60314,110.895124 781.776367,465.759375 C1215.94959,820.623626 1524,1283 1524,1283" id="Line" stroke="#17C37B" stroke-width="6" stroke-linecap="square" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
